@@ -1,0 +1,18 @@
+#python==3.8
+
+# numpy==1.19.2
+# pandas==1.2.3
+# sklearn==0.24.1 #pip install -U numpy scipy scikit-learn
+# matplotlib==3.3.4
+# scipy==1.7.0
+# pytorch==1.7.1
+# torch_geometric==1.6.3 
+# torch_sparse==0.6.8 
+# torch_scatter==2.0.5
+# seaborn==0.11.1
+# scanorama==1.7.1
+# openpyxl==3.0.7
+# umap-learn==0.5.1
+# stlearn==0.3.2
+# scanpy
+
